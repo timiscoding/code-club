@@ -10,6 +10,7 @@ Club rules
 2. Feedback - positive or constructive criticism is encouraged. Feedback can be about the meetings, people giving lessons, or even in pair coding exercises. If someone is giving a lesson, give praise if they did something well but more importantly, if you see any areas of improvement, let them know. It's the only way to get better.
 3. Discussion is encouraged. If at the end of a lesson, someone asks a question that you know the answer to, feel free to weigh in.
 4. Meetings are estimated to run for about 1-1.5 hrs. The time will most likely change once we find the right balance. Feel free to drop in or leave at any time.
+5. Teaching - whether it be sharing your knowledge to your partner in pair coding or giving a talk, teaching not only empowers your colleagues but helps solidify your own understanding. [Watch this](https://www.youtube.com/watch?v=RleN-6uMF04&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu&index=3) for good reasons why we should all teach.
 
 Agenda
 ======
